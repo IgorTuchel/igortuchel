@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**IgorTuchel/igortuchel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Igor, a second-year CS student at Bournemouth University. I like building things and understanding how they work under the hood. I'm interested in systems programming and backend development.
 
-Here are some ideas to get you started:
+### What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🦀 Learning Rust and building projects with it
+- 📚 Working through compiler and interpreter books
+- 🔧 Building backend services and experimenting with different stacks
+
+### Tech Stack
+*Go is my go-to language!*    
+
+**Primary:** Go, Python, JavaScript/TypeScript
+**Learning:** Rust  
+**Also Know:** C, C#
