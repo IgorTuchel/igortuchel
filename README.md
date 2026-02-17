@@ -11,6 +11,6 @@ I'm Igor, a second-year CS student at Bournemouth University. I like building th
 ### Tech Stack
 *Go is my go-to language!*    
 
-**Primary:** Go, Python, JavaScript/TypeScript
+**Primary:** Go, Python, JavaScript/TypeScript   
 **Learning:** Rust  
 **Also Know:** C, C#
